@@ -90,7 +90,7 @@ For complete end-to-end business case studies and advanced projects, refer to my
 
 Contact
 
-- LinkedIn: [Add your profile link]
-- Email: [Add your email]
+- LinkedIn: www.linkedin.com/in/anandu-v-anil
+- Email: vananduanil@gmail.com
 
 ---
