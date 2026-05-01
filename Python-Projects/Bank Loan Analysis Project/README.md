@@ -100,12 +100,5 @@ This project provides a detailed understanding of the loan portfolio, including 
 
 ---
 
-## How to Use
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/RinkuGill/python-project-finance-domain.git
-   ```
-2. Open `loan_analysis.ipynb` in **Jupyter Notebook** or **VS Code**.  
-3. Replace the dataset file if needed.  
-4. Run all cells to see the analysis and visualizations. 
+
 
