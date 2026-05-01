@@ -12,10 +12,7 @@ This project analyzes historical loan data in the finance domain to understand l
 - [Analysis and Visualizations](#analysis-and-visualizations)
 - [Insights](#insights)
 - [Conclusion](#conclusion)
-- [How to Use](#how-to-use)
-- [Author](#author)
-
----
+  ---
 
 ## Objective
 The main objectives of this project are:  
@@ -110,11 +107,5 @@ This project provides a detailed understanding of the loan portfolio, including 
    ```
 2. Open `loan_analysis.ipynb` in **Jupyter Notebook** or **VS Code**.  
 3. Replace the dataset file if needed.  
-4. Run all cells to see the analysis and visualizations.  
-
----
-
-## Author
-**Rinku Gill**  
-Data Analyst | Python & Data Visualization Enthusiast
+4. Run all cells to see the analysis and visualizations. 
 
